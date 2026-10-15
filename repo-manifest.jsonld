@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-globaltoc/commit/ea6c5ad08c125d1d8a3ec87ac34440cb2669e445",
       "git:hexsha": "ea6c5ad08c125d1d8a3ec87ac34440cb2669e445",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
